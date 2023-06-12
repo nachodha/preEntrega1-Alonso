@@ -1,6 +1,6 @@
 
 
-//El prgograma inicia solicitando la edad del usuario y tiene un validador:
+//El programa inicia solicitando la edad del usuario y tiene un validador:
 - Si la edad del usuario es menor a 18, se le informa que el programa es solo para mayores de edad y termina la ejecucion.
 - Si el usuario ingresa un valor no numerico, finaliza la ejecucion.
 - Si la edad del usuario es igual o mayor a 18 continua la ejecucion y se le solicita un nombre.
